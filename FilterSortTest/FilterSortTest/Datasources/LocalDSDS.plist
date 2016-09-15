@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>objects</key>
+	<array>
+        
+        <dict>
+            <key>isActive</key>
+<false></false>
+            <key>puntiation</key>
+<real>6</real>
+            <key>order</key>
+<integer>1</integer>
+            <key>text1</key>
+<string>A Lorem ipsum dolor sit amet. 1</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>Ms5cJaJRSr</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482f89ba9230300922848</string>
+        </dict>
+        <dict>
+            <key>isActive</key>
+<true></true>
+            <key>puntiation</key>
+<real>4</real>
+            <key>order</key>
+<integer>2</integer>
+            <key>text1</key>
+<string>B Lorem ipsum.2</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>wuTA9Y75BW</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482f89ba923030092284a</string>
+        </dict>
+        <dict>
+            <key>isActive</key>
+<false></false>
+            <key>puntiation</key>
+<real>6</real>
+            <key>order</key>
+<integer>5</integer>
+            <key>text1</key>
+<string>C Lorem ipsum dolor sit amet. 5</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>5rLJRGcIqQ</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482f99ba923030092284c</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>FgHnA2SiAT</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>z Lorem ipsum dolor sit amet. 3</string>
+            <key>order</key>
+<integer>3</integer>
+            <key>puntiation</key>
+<real>4</real>
+            <key>isActive</key>
+<false></false>
+            <key>id</key>
+<string>57a482f99ba923030092284e</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>xVvIygQWsX</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>y Lorem ipsum dolor sit amet. 4</string>
+            <key>order</key>
+<integer>4</integer>
+            <key>puntiation</key>
+<real>3</real>
+            <key>isActive</key>
+<true></true>
+            <key>id</key>
+<string>57a482fa9ba9230300922850</string>
+        </dict>
+        <dict>
+            <key>isActive</key>
+<false></false>
+            <key>puntiation</key>
+<real>6</real>
+            <key>order</key>
+<integer>7</integer>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 7</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>Y2fyeQPXXS</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482fa9ba9230300922852</string>
+        </dict>
+        <dict>
+            <key>isActive</key>
+<true></true>
+            <key>puntiation</key>
+<real>-3</real>
+            <key>order</key>
+<integer>6</integer>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 6</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>73rH3lLfY0</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482fa9ba9230300922854</string>
+        </dict>
+        <dict>
+            <key>isActive</key>
+<true></true>
+            <key>puntiation</key>
+<real>6</real>
+            <key>order</key>
+<integer>8</integer>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 8</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>7X0UVkFlK0</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482fb9ba9230300922856</string>
+        </dict>
+        <dict>
+            <key>isActive</key>
+<true></true>
+            <key>puntiation</key>
+<real>6</real>
+            <key>order</key>
+<integer>10</integer>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 10</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>nYegjf02Wv</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482fb9ba9230300922858</string>
+        </dict>
+        <dict>
+            <key>isActive</key>
+<false></false>
+            <key>puntiation</key>
+<real>6</real>
+            <key>order</key>
+<integer>9</integer>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 9</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>fDQvIFLcsw</string>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>id</key>
+<string>57a482fc9ba923030092285a</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>kIf6z84gY1</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 12</string>
+            <key>order</key>
+<integer>12</integer>
+            <key>puntiation</key>
+<real>2</real>
+            <key>isActive</key>
+<true></true>
+            <key>id</key>
+<string>57a482fc9ba923030092285c</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>ilmAHLcCmm</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 11</string>
+            <key>order</key>
+<integer>11</integer>
+            <key>puntiation</key>
+<real>6</real>
+            <key>isActive</key>
+<false></false>
+            <key>id</key>
+<string>57a482fd9ba923030092285e</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>1XDGFSzU0g</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 13</string>
+            <key>order</key>
+<integer>13</integer>
+            <key>puntiation</key>
+<real>8</real>
+            <key>isActive</key>
+<false></false>
+            <key>id</key>
+<string>57a482fd9ba9230300922860</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>EwsT1JFfhX</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 15</string>
+            <key>order</key>
+<integer>15</integer>
+            <key>puntiation</key>
+<real>7</real>
+            <key>isActive</key>
+<false></false>
+            <key>id</key>
+<string>57a482fd9ba9230300922862</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>afyKQqPcqw</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 17</string>
+            <key>order</key>
+<integer>17</integer>
+            <key>puntiation</key>
+<real>6</real>
+            <key>isActive</key>
+<false></false>
+            <key>id</key>
+<string>57a482fe9ba9230300922864</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>70zxgmb4Lc</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 14</string>
+            <key>order</key>
+<integer>14</integer>
+            <key>puntiation</key>
+<real>4</real>
+            <key>isActive</key>
+<true></true>
+            <key>id</key>
+<string>57a482fe9ba9230300922866</string>
+        </dict>
+        <dict>
+            <key>text3</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>picture</key>
+<string>VH02li9HXe</string>
+            <key>text2</key>
+<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis tortor augue. Nam blandit efficitur porta. Integer dictum sapien eu tortor sodales, id scelerisque magna interdum. Cras in mi lacinia metus fringilla lacinia. Vivamus aliquam arcu porta nisl aliquam, et maximus tellus iaculis. Integer et elementum risus. Cras ut elit id ex mollis finibus id nec nisi. Proin condimentum lorem sed nibh imperdiet, quis ultricies leo condimentum.</string>
+            <key>text1</key>
+<string>Lorem ipsum dolor sit amet. 16</string>
+            <key>order</key>
+<integer>16</integer>
+            <key>puntiation</key>
+<real>2</real>
+            <key>isActive</key>
+<true></true>
+            <key>id</key>
+<string>57a482ff9ba9230300922868</string>
+        </dict>
+	</array>
+</dict>
+</plist>

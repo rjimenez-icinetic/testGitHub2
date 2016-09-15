@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>objects</key>
+	<array>
+        
+        <dict>
+            <key>text2</key>
+<string>2</string>
+            <key>text1</key>
+<string>1</string>
+            <key>id</key>
+<string>57a483019ba9230300922874</string>
+        </dict>
+        <dict>
+            <key>text2</key>
+<string>3</string>
+            <key>text1</key>
+<string>1</string>
+            <key>id</key>
+<string>57a483019ba9230300922875</string>
+        </dict>
+        <dict>
+            <key>text2</key>
+<string>4</string>
+            <key>text1</key>
+<string>1</string>
+            <key>id</key>
+<string>57a483029ba9230300922876</string>
+        </dict>
+        <dict>
+            <key>text2</key>
+<string>4</string>
+            <key>text1</key>
+<string>1</string>
+            <key>id</key>
+<string>57a483029ba9230300922877</string>
+        </dict>
+        <dict>
+            <key>text2</key>
+<string>3</string>
+            <key>text1</key>
+<string>1</string>
+            <key>id</key>
+<string>57a483029ba9230300922878</string>
+        </dict>
+        <dict>
+            <key>text2</key>
+<string>5</string>
+            <key>text1</key>
+<string>2</string>
+            <key>id</key>
+<string>57a483029ba9230300922879</string>
+        </dict>
+        <dict>
+            <key>text2</key>
+<string>6</string>
+            <key>text1</key>
+<string>2</string>
+            <key>id</key>
+<string>57a483039ba923030092287a</string>
+        </dict>
+	</array>
+</dict>
+</plist>
